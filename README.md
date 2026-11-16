@@ -1,8 +1,8 @@
 # github-core-clone
 
-[![make.fun](https://make.fun/badge/tiars837/github-core-clone)](https://make.fun/bounty/github-core-clone-01)
-[![make.fun entry](https://make.fun/badge/tiars837/github-core-clone/entry)](https://make.fun/bounty/github-core-clone-01)
-[![make.fun bounty](https://make.fun/badge/tiars837/github-core-clone/bounty)](https://make.fun/bounty/github-core-clone-01)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/tiars837/github-core-clone/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/tiars837/github-core-clone/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 A GitHub-compatible git forge in one process, standard library only — built for the
 [make.fun bounty “Build a GitHub-compatible git forge”](https://make.fun/bounty/github-core-clone-01)
